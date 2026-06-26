@@ -17,7 +17,7 @@
 ### Concepts
 - [x] I can explain why /home/you/ is better than /mnt/c/ for project files
 - [x] I know what $PATH is and what command not found means
-- [x]I know what exit code 0 means vs non-zero
+- [x] I know what exit code 0 means vs non-zero
 - [x] I know the difference between absolute and relative paths
 - [x] I know what ~ expands to
 
@@ -28,5 +28,3 @@
 --- 
 
 
-
-You can write your personal notes here; I will revise after 7 days.
